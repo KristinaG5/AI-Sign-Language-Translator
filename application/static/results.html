@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Sign Language Recognition </title>
+    <link rel= "stylesheet" type= "text/css" href="{{ url_for('static',filename='styles/index.css') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row justify-content-md-center">
+        <div class="p-0 m-0">
+          <a href="/" class="btn btn-secondary">Back to start</a>
+          <br>
+          <video id="sample_video" width="720" height="480" controls>
+              <source src="{{ video_path }}" type="video/mp4">
+              <track label="English" kind="subtitles" srclang="en" src="{{ subtitle_path }}" default>
+          </video>
+        </div>
+      </div>
+      <div class="row justify-content-md-center">
+        <div class="p-0 m-0">
+          <a href="{{ subtitle_path }}" class="btn btn-secondary" download>Download subtitle file</a>
+          <a href="{{ video_path }}" class="btn btn-secondary" download>Download video</a>
+          <a href="/scores?id={{ id }}" class="btn btn-secondary">View scores</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

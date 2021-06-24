@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Sign Language Recognition </title>
+    <link rel= "stylesheet" type= "text/css" href="{{ url_for('static',filename='styles/index.css') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row justify-content-md-center">
+        <div class="p-0 m-0">
+            <a href="/results?id={{ id }}" class="btn btn-secondary">Back to results</a>
+            <br>
+            <br>
+            <table class="table table-light table-hover">
+                <thead>
+                  <tr>
+                    <th scope="col">Word</th>
+                    <th scope="col">Score</th>
+                    <th scope="col">Start</th>
+                    <th scope="col">End</th>
+                  </tr>
+                </thead>
+                <tbody>
+                    {% for row in data %}
+                    <tr>
+                        <td>{{ row.word }}</td>
+                        <td>{{ row.score }}</td>
+                        <td>{{ row.start }} s</td>
+                        <td>{{ row.end }} s</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

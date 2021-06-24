@@ -1,0 +1,3 @@
+[submodule "preprocessing/frankmocap/detectors/body_pose_estimator"]
+	path = preprocessing/frankmocap/detectors/body_pose_estimator
+	url = https://github.com/jhugestar/lightweight-human-pose-estimation.pytorch.git

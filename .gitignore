@@ -1,0 +1,13 @@
+__pycache__/
+.vscode
+debug.log
+.pytest_cache/
+*.pickle
+data/
+url_data/
+extra_data/
+weights/
+scores/
+subtitles/
+uploads/
+eafs/

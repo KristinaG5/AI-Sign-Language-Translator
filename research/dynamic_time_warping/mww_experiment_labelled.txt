@@ -1,0 +1,279 @@
+[laugh laugh  go  go  go  go  go  go laugh laugh  go laugh laugh  go  go  go  go laugh  go laugh laugh children  go laugh
+  go  go  go  go  go laugh  go children children children children children children children  0  small  small children  small finish  0  0  go summer
+ summer  good summer  go  go about about thought children children children children home home home  0 when  football  football  football beat  football easter beat
+ when spring spring  go  go spring spring spring number number number about beat spring easter spring spring number  have  have easter  have  have  have
+  have  go spring finish number number  but  0  0  but spring spring spring spring easter  awful  football one easter easter spring about  0 spring
+ beat spring spring spring spring spring number  go when spring spring spring  football  0 about number spring  good about  have when spring beat beat
+ beat beat finish number beat when when beat number about beat children always about  small laugh  but number beat easter beat beat spring spring
+ spring spring about always always spring  football number always always  football about finish when  have number number about about  have  have  have about  have
+ about  alright about about about about about number when  alright  alright  alright winter winter  have  have winter winter winter  have  have  have  have winter
+  have  have finish  have finish children  have  have  have  have  have  have  have  have  have  have  have  have]
+[ 0  0  go  go  go  go  go  go  0  0  0  0  0  go  go  go  go  0  0  0  0  0  0  0
+  go  go  go  go  go  0  0 children children children children children children children  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0 children children children children  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have
+  have  0  0  0  0  0  0  0  0  0 spring spring spring spring  0  0  0  0  0  0  0  0  0  0
+  0 spring spring spring spring spring  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 beat beat
+ beat beat  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 spring spring
+ spring spring  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0 about about about about about  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  0
+  0  0  0  0  0  0  have  have  have  have  have  have  have  have  have  have  have  have]
+go [{'word': 'go', 'start': 0, 'end': footballgo}, {'word': 'children', 'start': footballgo, 'end': goodfootball}, {'word': 'have', 'start': goodfootball, 'end': homeawful}, {'word': 'spring', 'start': homeawful, 'end': beforehave}, {'word': 'beat', 'start': beforehave, 'end': alwaysawful}, {'word': 'spring', 'start': alwaysawful, 'end': fivelook}, {'word': 'about', 'start': fivelook, 'end': eastergo}, {'word': 'have', 'start': eastergo, 'end': betterfootball}]
+
+[number number number number number  go number  go i i i  have  have  have  0  awful when when when when when  have laugh  go
+  0 thought  go  go  go five  go  go five  go  0  go  go  0 home home home  good  0  good home  look]
+[number number number number number  0  0  0  0  0  0  0  0  0  0  0 when when when when when  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  look]
+go [{'word': 'number', 'start': 0, 'end': always}, {'word': 'when', 'start': always, 'end': looksmall}]
+
+[one i i  good i  good  good  0 children children  0 always laugh  0  go  go winter i always one home children  0  0
+ before spring  0 spring beat  0 about about summer thought home  look  look always one i five five five children children  0  look  alright]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 alright]
+go [{'word': 'alright', 'start': 0, 'end': lookalright}]
+
+[ but spring when about about about children  0  0 remember remember spring remember  but number  alright  alright  alright number  alright  but  but  0  have
+  but  alright  alright  small  but spring home home laugh  look  awful  awful  look children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0 children children children]
+go [{'word': 'children', 'start': 0, 'end': footballgood}]
+
+[better better home better one one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one winter winter one winter winter winter]
+[ 0  0  0  0 one one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one  0  0  0 winter winter winter]
+go [{'word': 'one', 'start': 0, 'end': footballawful}, {'word': 'winter', 'start': footballawful, 'end': footballbut}]
+[ look  look before  have i  have before  0  look i remember remember remember always finish laugh  look always children children i i  have i
+  good i five summer  alright  0 thought before  0 easter easter easter one one winter one  have one one laugh  but always  good  good
+ i children i children children i children i i i i i]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0 i i i i i]
+go [{'word': 'i', 'start': 0, 'end': smallgood}]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but spring
+  but  small better finish finish  0  0  have  good  good  good laugh laugh laugh laugh laugh laugh  good  small  but better  but  good laugh
+  good  good laugh  good  good before finish home beat better beat always  but beat beat i laugh]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  0
+  0  0  0  0  0  0  0  0  0  0  0 laugh laugh laugh laugh laugh laugh  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 laugh]
+go [{'word': 'but', 'start': 0, 'end': footballsmall}, {'word': 'laugh', 'start': footballsmall, 'end': awfullook}]
+[ go  go  go  go  go  go  go  go  0  0  go laugh laugh  go  go  go  go laugh  go  go  0 children thought thought
+  go  go  go  go  go  go  go children children children children children children  0 laugh  small  small children always always  0  0  go summer
+ summer  good summer  go  go about about children children children children children home home home home when  football  football  football beat  football  0 beat
+  small spring one  go  0 number number spring number number number about beat spring easter  small children number  have  have  have  have  have  have
+  have  go spring spring  but number  but  0  but  but spring spring spring spring winter  awful  football one easter easter number about one number
+ easter spring spring spring one spring spring  go  go spring about about  but  0 when number spring  good about  have when spring  football beat
+  football  football beat beat beat  but when beat number beat number children always  football home  look  but beat beat easter five laugh one spring
+ spring spring about  football  football  0  football number about always  football about finish about  have number number  have  have  have  have  have  have  have
+  but  alright about about about  0  0 number when  alright  alright  alright winter winter  have  have winter winter winter  alright  alright  have winter  have
+  have  have  alright  have finish  have winter winter winter winter winter  alright  have  have  have  have  have  have]
+[ go  go  go  go  go  go  go  go  0  0  0  0  0  go  go  go  go  0  0  0  0  0  0  0
+  go  go  go  go  go  go  go children children children children children children  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0 children children children children children home home home home  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  have  have
+  have  0  0  0  0  0  0  0  0  0 spring spring spring spring  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  have  have  have
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0 winter winter winter winter winter  0  have  have  have  have  have  have]
+awful [{'word': 'go', 'start': 0, 'end': footballgo}, {'word': 'children', 'start': footballgo, 'end': awful0}, {'word': 'home', 'start': awful0, 'end': good0}, {'word': 'have', 'start': good0, 'end': homeawful}, {'word': 'spring', 'start': homeawful, 'end': whensmall}, {'word': 'have', 'start': whensmall, 'end': beathave}, {'word': 'winter', 'start': beathave, 'end': haveabout}, {'word': 'have', 'start': haveabout, 'end': betterfootball}]
+[ small  small number  go  go  go home  go home home i  have  have  have  0 spring when five i when when  awful laugh  go
+  0 number  go  go  go five  go  go five  go better  go  go  go home home home  good  0 always home always]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 always]
+awful [{'word': 'always', 'start': 0, 'end': looksmall}]
+[one i i  good i  good  good  0 children  small remember laugh laugh  go  go  go winter always winter one home  good  good home
+ before spring summer spring beat summer about about  0 thought home when  0 always one when five five five children children  0  look  alright]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 alright]
+awful [{'word': 'alright', 'start': 0, 'end': lookalright}]
+[ but spring when about about spring remember  0  0  go  go spring about  go  alright  alright  alright  alright  alright  alright about about before  have
+  but  alright beat before  but spring home home laugh  look  awful  awful  look children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  alright  alright  alright  alright  alright  alright  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0 children children children]
+awful [{'word': 'alright', 'start': 0, 'end': footballalright}, {'word': 'children', 'start': footballalright, 'end': footballgood}]
+[better better home better  0 one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one one winter one winter winter winter]
+[ 0  0  0  0  0 one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one one  0  0 winter winter winter]
+awful [{'word': 'one', 'start': 0, 'end': footballawful}, {'word': 'winter', 'start': footballawful, 'end': footballbut}]
+[ look  look before  go i  have five  alright  look i easter remember remember always  look  look  look always children children i i i  0
+  good before before before  alright children thought before finish finish easter easter one winter winter one  have one always always spring always  good  good
+ winter children children children children children children children children children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0 children children children children children children children children children children children]
+awful [{'word': 'children', 'start': 0, 'end': smallgood}]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but
+  but  small better finish better summer remember about  alright  good  good  good laugh laugh laugh laugh  good  good  small  but better  good  good  good
+  good  good  good  good  good before finish children beat better beat beat always beat beat  0 laugh]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but
+  but  0  0  0  0  0  0  0  0  0  0  0 laugh laugh laugh laugh  0  0  0  0  0  good  good  good
+  good  good  good  good  good  0  0  0  0  0  0  0  0  0  0  0 laugh]
+awful [{'word': 'but', 'start': 0, 'end': footballawful}, {'word': 'laugh', 'start': footballawful, 'end': looksmall}, {'word': 'good', 'start': looksmall, 'end': awfullook}]
+[ go  go  go  go  go  go  go  go  0  0  go laugh laugh  go  go  go  go laugh  go  go  0 children thought thought
+  go  go  go  go  go  go  go children children children children children children  0 laugh  small  small children always always  0  0  go summer
+ summer  good summer  go  go about about children children children children children home home home home when  football  football  football beat  football  football beat
+  small spring i  go  0 number number spring number number number about beat spring easter  small children number  have  have  have  have  have  have
+  have  go spring spring  but number  but  0  but  but  but spring spring spring winter  awful  football i easter easter spring  0  alright spring
+ easter spring spring spring one spring spring  go  go spring spring about  football  0 when number spring  good about  have when spring  football beat
+  football  football beat beat beat  but about beat number beat number children about  football home laugh  but beat beat easter five spring one spring
+ spring spring about  football  football  0  football number about always  football about  football about  have  have number  have  have  have  have  have  have  have
+  but  alright about about about about about number when  alright  alright  alright winter winter  have  have winter winter winter  alright  alright  have winter  have
+  have  have  alright  have  alright  have winter winter winter winter winter  alright  have  have  have  have  have  have]
+[ go  go  go  go  go  go  go  go  0  0  0  0  0  go  go  go  go  0  0  0  0  0  0  0
+  go  go  go  go  go  go  go children children children children children children  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0 children children children children children home home home home  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  have  have
+  have  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  have  have  have
+  0  0 about about about about about  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0 winter winter winter winter winter  0  have  have  have  have  have  have]
+one [{'word': 'go', 'start': 0, 'end': footballgo}, {'word': 'children', 'start': footballgo, 'end': awful0}, {'word': 'home', 'start': awful0, 'end': good0}, {'word': 'have', 'start': good0, 'end': fivelook}, {'word': 'about', 'start': fivelook, 'end': beathave}, {'word': 'winter', 'start': beathave, 'end': haveabout}, {'word': 'have', 'start': haveabout, 'end': betterfootball}]
+[ go  0 number number  go  go  go  go home home i  have  have  have  0 five i five i when when  awful laugh  go
+  0 number  go  go  go five  go  go five  go  go  go  go  go home home home  good  0  0 home always]
+[ 0  0  0  0  go  go  go  go  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  go  go  go  go  go  0  0  0  0  0  0  0 always]
+one [{'word': 'go', 'start': 0, 'end': looksmall}]
+[one i i  good i  good  good  0 children  small remember laugh laugh  go  go  go winter winter winter one home  good  good  good
+ before spring summer spring beat summer before about about number home when  0 always one when five five five children children i  look  alright]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 alright]
+one [{'word': 'alright', 'start': 0, 'end': lookalright}]
+[ but spring when about about spring when  0 number number  go spring number  0 number  alright  alright  alright  alright  alright about number before  have
+  but  alright beat before  but spring home home laugh  look  awful  awful  look children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  alright  alright  alright  alright  alright  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0 children children children]
+one [{'word': 'alright', 'start': 0, 'end': footballalright}, {'word': 'children', 'start': footballalright, 'end': footballgood}]
+[better better home better  0 one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one one winter one one winter winter]
+[ 0  0  0  0  0 one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one one  0  0  0 winter winter]
+one [{'word': 'one', 'start': 0, 'end': footballalright}, {'word': 'winter', 'start': footballalright, 'end': footballbut}]
+[ look  look before  go i  have  0  awful  look i easter remember remember always  look  look  look always children  0 i i i i
+  good before before before  alright children thought before winter finish easter easter one winter winter one  have one always always spring always  good  good
+ winter children children children children children children children children children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 i i i i
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0 children children children children children children children children children children children]
+one [{'word': 'i', 'start': 0, 'end': lookgood}, {'word': 'children', 'start': lookgood, 'end': smallgood}]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but
+  but  small better finish better summer remember about  alright  good  good laugh laugh laugh laugh laugh  good  good laugh  but better  good  good  good
+  good  good  good  good  good before summer beat beat better beat always always beat beat laugh laugh]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but
+  but  0  0  0  0  0  0  0  0  0  0 laugh laugh laugh laugh laugh  0  0  0  0  0  good  good  good
+  good  good  good  good  good  0  0  0  0  0  0  0  0  0  0 laugh laugh]
+one [{'word': 'but', 'start': 0, 'end': footballsmall}, {'word': 'laugh', 'start': footballsmall, 'end': looksmall}, {'word': 'good', 'start': looksmall, 'end': awfulfootball}, {'word': 'laugh', 'start': awfulfootball, 'end': awfullook}]
+[ go  go  go  go  go  go  go  go  0  0  go laugh laugh  go  go  go  go laugh  go  go  0 children thought thought
+  go  go  go  go  go  go  go children children children children children children  0 laugh  small  small children always always  0  0  go summer
+ summer  good summer  go  go about about children children children children children home home home home when  football  football  football beat  football  football beat
+  small spring i  go  0 number number spring number number number about beat spring easter  small children number  have  have  have  have  have  have
+  have  go spring spring  but number  but  0  but  but  but spring spring spring winter  awful  football one easter easter spring  0  alright spring
+ easter spring spring spring one spring spring  go  go spring spring about  football  0 when number spring  good about  have when spring  football beat
+  football  football beat beat beat  but about beat number beat number children about  football home laugh  but beat beat easter five spring one spring
+ spring spring about  football  football  0  football number about always  football about  football about  have  have number  have  have  have  have  have  have  have
+  but  alright about about about about about number when  alright  alright  alright winter winter  have  have winter winter winter  alright  alright  have winter  have
+  have  have  alright  have  alright  have winter winter winter winter winter  alright  have  have  have  have  have  have]
+[ go  go  go  go  go  go  go  go  0  0  0  0  0  go  go  go  go  0  0  0  0  0  0  0
+  go  go  go  go  go  go  go children children children children children children  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0 children children children children children home home home home  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  have  have
+  have  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  have  have  have
+  0  0 about about about about about  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0 winter winter winter winter winter  0  have  have  have  have  have  have]
+always [{'word': 'go', 'start': 0, 'end': footballgo}, {'word': 'children', 'start': footballgo, 'end': awful0}, {'word': 'home', 'start': awful0, 'end': good0}, {'word': 'have', 'start': good0, 'end': fivelook}, {'word': 'about', 'start': fivelook, 'end': beathave}, {'word': 'winter', 'start': beathave, 'end': haveabout}, {'word': 'have', 'start': haveabout, 'end': betterfootball}]
+[ go  0 number number  go  go  go  go home home i  have  have  have  0 five i five i when when  awful laugh  go
+  0 number  go  go  go five  go  go five  go  go  go  go  go home home home  good  0  0 home always]
+[ 0  0  0  0  go  go  go  go  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  go  go  go  go  go  0  0  0  0  0  0  0 always]
+always [{'word': 'go', 'start': 0, 'end': looksmall}]
+[one i i  good i  good  good  0 children  small remember laugh laugh  go  go  go winter winter winter one home  good  good  good
+ before spring summer spring beat summer before about about number home when  0 always one when five five five children children i  look  alright]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 alright]
+always [{'word': 'alright', 'start': 0, 'end': lookalright}]
+[ but spring when about about spring when  0 number number  go about number  0 number  alright  alright  alright  alright  alright about number before  have
+  but  alright beat before  but spring home home laugh  look  awful  awful  look children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  alright  alright  alright  alright  alright  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0 children children children]
+always [{'word': 'alright', 'start': 0, 'end': footballalright}, {'word': 'children', 'start': footballalright, 'end': footballgood}]
+[better better home better  0 one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one one winter one one winter winter]
+[ 0  0  0  0  0 one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one one  0  0  0 winter winter]
+always [{'word': 'one', 'start': 0, 'end': footballalright}, {'word': 'winter', 'start': footballalright, 'end': footballbut}]
+[ look  look before  go i  have  0  awful  look i easter remember remember always  look  look  look always children  0 i i i i
+  good before before before  alright children thought before winter finish easter easter one winter winter one  have one always always spring always  good  good
+ winter children children children children children children children children children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 i i i i
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0 children children children children children children children children children children children]
+always [{'word': 'i', 'start': 0, 'end': lookgood}, {'word': 'children', 'start': lookgood, 'end': smallgood}]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but
+  but  small better finish better summer remember about  alright  good  good laugh laugh laugh laugh laugh  good  good laugh  but better  good  good  good
+  good  good  good  good  good before summer beat beat better beat always always beat beat laugh laugh]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but
+  but  0  0  0  0  0  0  0  0  0  0 laugh laugh laugh laugh laugh  0  0  0  0  0  good  good  good
+  good  good  good  good  good  0  0  0  0  0  0  0  0  0  0 laugh laugh]
+always [{'word': 'but', 'start': 0, 'end': footballsmall}, {'word': 'laugh', 'start': footballsmall, 'end': looksmall}, {'word': 'good', 'start': looksmall, 'end': awfulfootball}, {'word': 'laugh', 'start': awfulfootball, 'end': awfullook}]
+[ go  go  go  go  go  go  go  go  0  0  go laugh laugh  go  go  go  go laugh  go  go  0 children thought thought
+  go  go  go  go  go  go  go children children children children children children  0 laugh  small  small children always always  0  0  go summer
+ summer  good summer  go  go about about children children children children children home home home home when  football  football  football beat  football  football beat
+  small spring i  go  0 number number spring number number number about beat spring easter  small children number  have  have  have  have  have  have
+  have  go spring spring  but number  but  0  but  but  but spring spring spring winter  awful  football i easter easter spring  0  alright spring
+ easter spring spring spring one spring spring  go  go spring spring about  football  0 when number spring  good about  have when spring  football beat
+  football  football beat beat beat  but about beat number beat number children about  football home laugh  but beat beat easter five spring one spring
+ spring spring about  football  football  0  football number about always  football about  football about  have  have number  have  have  have  have  have  have  have
+  but  alright about about about about about number when  alright  alright  alright winter winter  have  have winter winter winter  alright  alright  have winter  have
+  have  have  alright  have  alright  have winter winter winter winter winter  alright  have  have  have  have  have  have]
+[ go  go  go  go  go  go  go  go  0  0  0  0  0  go  go  go  go  0  0  0  0  0  0  0
+  go  go  go  go  go  go  go children children children children children children  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0 children children children children children home home home home  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  have  have
+  have  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  have  have  have  have  have  have  have
+  0  0 about about about about about  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0 winter winter winter winter winter  0  have  have  have  have  have  have]
+easter [{'word': 'go', 'start': 0, 'end': footballgo}, {'word': 'children', 'start': footballgo, 'end': awful0}, {'word': 'home', 'start': awful0, 'end': good0}, {'word': 'have', 'start': good0, 'end': fivelook}, {'word': 'about', 'start': fivelook, 'end': beathave}, {'word': 'winter', 'start': beathave, 'end': haveabout}, {'word': 'have', 'start': haveabout, 'end': betterfootball}]
+[ go  0 number number  go  go  go  go home home i  have  have  have  0 five i five i when when  awful laugh  go
+  0 number  go  go  go five  go  go five  go  go  go  go  go home home home  good  0  0 home always]
+[ 0  0  0  0  go  go  go  go  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  go  go  go  go  go  0  0  0  0  0  0  0 always]
+easter [{'word': 'go', 'start': 0, 'end': looksmall}]
+[one i i  good i  good  good  0 children  small remember laugh laugh  go  go  go winter winter winter one home  good  good  good
+ before spring summer spring beat summer before about about number home when  0 always one when five five five children children one  look  alright]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 alright]
+easter [{'word': 'alright', 'start': 0, 'end': lookalright}]
+[ but spring when about about spring when  0 number number  go about number  0 number  alright  alright  alright  alright  alright about number before  have
+  but  alright beat before  but spring home home laugh  look  awful  awful  look children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  alright  alright  alright  alright  alright  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0 children children children]
+easter [{'word': 'alright', 'start': 0, 'end': footballalright}, {'word': 'children', 'start': footballalright, 'end': footballgood}]
+[better better home better  0 one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one one winter one one winter winter]
+[ 0  0  0  0  0 one one one one one one one one one one one one one one one one one one one
+ one one one one one one one one one one  0  0  0 winter winter]
+easter [{'word': 'one', 'start': 0, 'end': footballalright}, {'word': 'winter', 'start': footballalright, 'end': footballbut}]
+[ look  look before  go i  have  0  awful  look i easter remember remember always  look  look  look always children  0 i i i i
+  good before before before  alright children thought before winter finish easter easter one winter winter one  have one always always spring always  good  good
+ winter children children children children children children children children children children children]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 i i i i
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0 children children children children children children children children children children children]
+easter [{'word': 'i', 'start': 0, 'end': lookgood}, {'word': 'children', 'start': lookgood, 'end': smallgood}]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but
+  but  small better finish better summer remember about  alright  good  good laugh laugh laugh laugh laugh  good  good laugh  but better  good  good  good
+  good  good  good  good  good before summer beat beat better beat always always beat beat laugh laugh]
+[ but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but  but
+  but  0  0  0  0  0  0  0  0  0  0 laugh laugh laugh laugh laugh  0  0  0  0  0  good  good  good
+  good  good  good  good  good  0  0  0  0  0  0  0  0  0  0 laugh laugh]
+easter [{'word': 'but', 'start': 0, 'end': footballsmall}, {'word': 'laugh', 'start': footballsmall, 'end': looksmall}, {'word': 'good', 'start': looksmall, 'end': awfulfootball}, {'word': 'laugh', 'start': awfulfootball, 'end': awfullook}]

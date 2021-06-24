@@ -1,0 +1,32 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: Kristina Geddis
+
+Project Module Code: JBD99
+Project Supervisor: John Bustard
+
+Meeting Number: 20
+
+Date of Meeting: 08/03/2021
+
+Progress since last meeting, and decisions arrived at during meeting:
+-Discussed what the UI should look like
+-Discussed best format to show the predictions (subtitle file)
+-Discussed what experiments are remaining 
+-Discussed what should be in the demo
+-Discussed how to write the dissertation
+
+Action Points:
+-Keep working on the final system and integrate the UI changes
+-Continue writing the dissertation
+
+Date of next meeting: 22/03/2021
+
+====================
+
+Agreed minute should be initialled by the supervisor.
+Supervisor's Initials: _____________ Date: _________________
+Supervisor's Comments:
+=======================

@@ -1,0 +1,31 @@
+
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: Kristina Geddis
+
+Project Module Code: JBD99
+Project Supervisor: John Bustard
+
+Meeting Number: 6
+
+Date of Meeting: 02/11/2020
+
+Progress since last meeting, and decisions arrived at during meeting:
+-Decided to take a few steps back and start from a more simple and straight forward approach (start with binaryclass)
+-Discussed the different techniques to test for this project (multiclassification and verification system)
+-Discussed the steps involved to create a binary and multiclassification 
+
+Action Points:
+-Work on the binary classification and run it through a classifier to see which results it produces
+-If the results are good, then move on to multiclassification steps
+
+Date of next meeting: 09/11/2020
+
+====================
+
+Agreed minute should be initialled by the supervisor.
+Supervisor's Initials: _____________ Date: _________________
+Supervisor's Comments:
+=======================

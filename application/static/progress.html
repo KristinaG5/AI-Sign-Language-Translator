@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Sign Language Recognition</title>
+    <link rel= "stylesheet" type= "text/css" href="{{ url_for('static',filename='styles/index.css') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/3.1.1/socket.io.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            //connect to the socket server.
+            var socket = io.connect('http://' + document.domain + ':' + location.port + '/app');
+            console.log("connected!");
+
+            socket.on('progress', function(msg) {
+                console.log(msg);
+                percentage = msg.number/msg.total;
+                $('#progress').val(percentage*100);
+                $('#progress_label').text(msg.number + "/" + msg.total);
+            });
+
+            socket.on('message', function(msg) {
+                console.log(msg.text);
+                $('#logs').append(msg.text+'<br>');
+            });
+
+            socket.on('complete', function(msg) {
+                window.location.href = '/results?id={{id}}';
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="card p-3 bg-gradient-light">
+        <label for="progress">Progress:</label>
+        <progress id="progress" value="0" max="100"></progress>
+        <span id="progress_label"></span>
+        <div id="logs">Converting video...<br></div>
+    </div>
+</body>
+</html>

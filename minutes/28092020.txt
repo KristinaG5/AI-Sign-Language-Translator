@@ -1,0 +1,32 @@
+
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: Kristina Geddis
+
+Project Module Code: JBD99
+Project Supervisor: John Bustard
+
+Meeting Number: 1
+
+Date of Meeting: 28/09/2020
+
+Progress since last meeting, and decisions arrived at during meeting:
+-Discussed different ways to approach this project
+-Discussed existing/similar projects to see how they approached similar problems
+-Discussed what libraries to look into
+
+Action Points:
+-Look into the libraries suggested 
+-Try and find datasets to use
+-Research more about sign language and similar projects
+
+Date of next meeting: 05/10/2020
+
+====================
+
+Agreed minute should be initialled by the supervisor.
+Supervisor's Initials: _____________ Date: _________________
+Supervisor's Comments:
+=======================

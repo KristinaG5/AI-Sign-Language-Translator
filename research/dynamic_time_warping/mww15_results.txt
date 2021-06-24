@@ -1,0 +1,104 @@
+
+data/val_videos/validation/validation_videos/G19n_121100.mov
+{'word': 'go', 'count': 9, 'proba': [0.4, 0.4, 0.6, 0.6, 0.4, 0.4, 0.4, 0.4, 0.2]}
+{'word': 'laugh', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'go', 'count': 4, 'proba': [0.4, 0.4, 0.4, 0.8]}
+{'word': 'go', 'count': 3, 'proba': [0.4, 0.4, 0.2]}
+{'word': 'thought', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'go', 'count': 7, 'proba': [0.8, 0.6, 0.6, 0.8, 0.4, 0.4, 0.4]}
+{'word': 'children', 'count': 6, 'proba': [0.6, 0.8, 0.8, 0.6, 0.6, 0.4]}
+{'word': 'small', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'always', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'go', 'count': 2, 'proba': [0.2, 0.4]}
+{'word': 'summer', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'go', 'count': 2, 'proba': [0.4, 0.8]}
+{'word': 'about', 'count': 2, 'proba': [0.8, 1.0]}
+{'word': 'children', 'count': 5, 'proba': [0.4, 0.6, 1.0, 0.8, 0.6]}
+{'word': 'home', 'count': 4, 'proba': [0.4, 0.6, 0.4, 0.4]}
+{'word': 'football', 'count': 3, 'proba': [0.4, 1.0, 1.0]}
+{'word': 'football', 'count': 2, 'proba': [0.8, 0.4]}
+{'word': 'go', 'count': 2, 'proba': [0.4, 0.2]}
+{'word': 'number', 'count': 2, 'proba': [0.4, 0.6]}
+{'word': 'number', 'count': 3, 'proba': [1.0, 1.0, 1.0]}
+{'word': 'have', 'count': 7, 'proba': [1.0, 1.0, 0.4, 1.0, 1.0, 0.8, 0.8]}
+{'word': 'spring', 'count': 2, 'proba': [0.6, 0.8]}
+{'word': 'but', 'count': 3, 'proba': [0.6, 0.6, 0.4]}
+{'word': 'spring', 'count': 3, 'proba': [0.6, 0.6, 0.4]}
+{'word': 'easter', 'count': 2, 'proba': [0.6, 0.4]}
+{'word': 'spring', 'count': 3, 'proba': [1.0, 0.6, 1.0]}
+{'word': 'spring', 'count': 2, 'proba': [0.6, 0.4]}
+{'word': 'go', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'spring', 'count': 2, 'proba': [0.6, 0.4]}
+{'word': 'football', 'count': 2, 'proba': [0.6, 0.4]}
+{'word': 'beat', 'count': 3, 'proba': [0.6, 0.4, 0.6]}
+{'word': 'beat', 'count': 2, 'proba': [0.4, 0.6]}
+{'word': 'spring', 'count': 3, 'proba': [0.8, 0.8, 0.8]}
+{'word': 'football', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'have', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'have', 'count': 7, 'proba': [0.4, 0.4, 0.4, 0.6, 0.6, 0.4, 0.4]}
+{'word': 'about', 'count': 5, 'proba': [0.4, 0.4, 0.4, 0.4, 0.4]}
+{'word': 'alright', 'count': 3, 'proba': [0.4, 0.6, 0.6]}
+{'word': 'winter', 'count': 2, 'proba': [0.8, 0.8]}
+{'word': 'have', 'count': 2, 'proba': [0.4, 0.8]}
+{'word': 'winter', 'count': 3, 'proba': [0.6, 0.6, 0.6]}
+{'word': 'alright', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'have', 'count': 3, 'proba': [0.8, 1.0, 0.6]}
+{'word': 'winter', 'count': 5, 'proba': [0.4, 0.6, 0.6, 0.6, 0.6]}
+
+data/val_videos/validation/validation_videos/BF23n_249811.mov
+{'word': 'go', 'count': 2, 'proba': [0.4, 0.2]}
+{'word': 'number', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'go', 'count': 4, 'proba': [0.4, 0.4, 0.4, 0.4]}
+{'word': 'home', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'have', 'count': 3, 'proba': [0.4, 0.4, 1.0]}
+{'word': 'when', 'count': 2, 'proba': [0.6, 0.8]}
+{'word': 'go', 'count': 2, 'proba': [0.6, 0.2]}
+{'word': 'go', 'count': 3, 'proba': [0.6, 0.6, 0.4]}
+{'word': 'go', 'count': 2, 'proba': [0.4, 0.8]}
+{'word': 'go', 'count': 5, 'proba': [0.8, 0.4, 0.6, 0.8, 0.4]}
+{'word': 'home', 'count': 3, 'proba': [0.4, 0.4, 0.4]}
+{'word': 'good', 'count': 2, 'proba': [1.0, 0.2]}
+
+data/val_videos/validation/validation_videos/G24n_31200.mov
+{'word': 'i', 'count': 2, 'proba': [0.6, 0.8]}
+{'word': 'good', 'count': 2, 'proba': [0.8, 0.4]}
+{'word': 'laugh', 'count': 2, 'proba': [0.4, 0.8]}
+{'word': 'go', 'count': 3, 'proba': [0.4, 0.4, 0.6]}
+{'word': 'winter', 'count': 3, 'proba': [0.6, 0.4, 0.4]}
+{'word': 'good', 'count': 3, 'proba': [0.4, 0.4, 0.6]}
+{'word': 'about', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'five', 'count': 3, 'proba': [0.8, 0.8, 0.6]}
+{'word': 'children', 'count': 2, 'proba': [0.6, 0.6]}
+
+data/val_videos/validation/validation_videos/BL14n_95230.mov
+{'word': 'about', 'count': 2, 'proba': [0.4, 0.6]}
+{'word': 'number', 'count': 2, 'proba': [0.4, 0.6]}
+{'word': 'alright', 'count': 5, 'proba': [0.4, 0.4, 0.4, 0.4, 0.4]}
+{'word': 'home', 'count': 2, 'proba': [0.8, 1.0]}
+{'word': 'awful', 'count': 2, 'proba': [0.8, 0.8]}
+
+data/val_videos/validation/validation_videos/G14n_663035.mov
+{'word': 'better', 'count': 2, 'proba': [0.4, 1.0]}
+{'word': 'one', 'count': 29, 'proba': [0.6, 0.6, 0.8, 0.8, 1.0, 0.8, 1.0, 1.0, 1.0, 1.0, 0.8, 1.0, 0.8, 0.8, 0.8, 0.6, 0.6, 0.8, 0.8, 0.8, 0.8, 0.8, 1.0, 0.8, 0.8, 0.8, 0.8, 1.0, 0.6]}
+{'word': 'one', 'count': 2, 'proba': [0.6, 0.4]}
+
+data/val_videos/validation/validation_videos/G27n_2172.mov
+{'word': 'look', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'remember', 'count': 2, 'proba': [0.8, 0.6]}
+{'word': 'look', 'count': 3, 'proba': [0.8, 0.8, 0.8]}
+{'word': 'i', 'count': 4, 'proba': [0.4, 0.4, 0.4, 0.4]}
+{'word': 'before', 'count': 3, 'proba': [0.4, 0.6, 0.4]}
+{'word': 'easter', 'count': 2, 'proba': [0.8, 1.0]}
+{'word': 'winter', 'count': 2, 'proba': [0.8, 1.0]}
+{'word': 'always', 'count': 2, 'proba': [0.4, 0.4]}
+{'word': 'good', 'count': 2, 'proba': [1.0, 0.6]}
+
+data/val_videos/validation/validation_videos/G15n_91493.mov
+{'word': 'but', 'count': 25, 'proba': [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8, 1.0, 0.8, 0.8, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8, 1.0, 1.0, 1.0, 1.0, 0.8, 0.8]}
+{'word': 'good', 'count': 2, 'proba': [1.0, 1.0]}
+{'word': 'laugh', 'count': 5, 'proba': [0.4, 1.0, 1.0, 0.8, 1.0]}
+{'word': 'good', 'count': 2, 'proba': [0.6, 1.0]}
+{'word': 'good', 'count': 8, 'proba': [0.6, 1.0, 0.8, 1.0, 1.0, 0.4, 0.8, 1.0]}
+{'word': 'beat', 'count': 2, 'proba': [0.4, 0.8]}
+{'word': 'always', 'count': 2, 'proba': [0.4, 0.8]}
+{'word': 'beat', 'count': 2, 'proba': [1.0, 1.0]}

@@ -1,0 +1,30 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: Kristina Geddis
+
+Project Module Code: JBD99
+Project Supervisor: John Bustard
+
+Meeting Number: 14
+
+Date of Meeting: 18/01/2021
+
+Progress since last meeting, and decisions arrived at during meeting:
+-Discussed progress with suggested experiments
+-Discussed new pose estimation library: frankmocap
+-Received the feedback from the demo
+
+Action Points:
+-Conitnue installing and testing frankmocap
+-Train frankmocap with my app
+
+Date of next meeting: 25/01/2021
+
+====================
+
+Agreed minute should be initialled by the supervisor.
+Supervisor's Initials: _____________ Date: _________________
+Supervisor's Comments:
+=======================

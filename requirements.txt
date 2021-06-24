@@ -1,0 +1,16 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.6/index.html
+Flask==1.1.2
+numpy==1.20.1
+opencv-python==4.5.1.48
+torch==1.6.0+cu101
+torchvision==0.7.0+cu101
+torchgeometry==0.1.2
+tqdm==4.59.0
+smplx==0.1.26
+scipy==1.6.1
+detectron2==0.3+cu101
+fastdtw==0.3.4
+scikit-learn==0.24.1
+flask-socketio==5.1.0
+pytest==6.2.3
