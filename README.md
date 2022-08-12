@@ -14,6 +14,8 @@ The Queen's University Belfast (2020-2021) - Final Year Project
 
 **Project**: A research based dissertation project with emphasis on finding a comprehensive solution to translate British Sign Language. The project will focus on dataset collection, video processing, visualisation and machine learning with a focus on reliability and accuracy in the final solution.
 
+**Dissertation:** [AI-Driven British Sign-language Translation](Kristina_Geddis_Dissertation.pdf)
+
 ## Prerequisites
 - [Python 3.8](https://www.python.org/)
 - Nvidia GPU
@@ -128,6 +130,7 @@ To build the training dataset:
 
 Arguments:
 - `--folder_path`: Path to folder of folders where each subfolder represents a class:
+    ```
     ├── parent_folder
         ├── cat
             ├── cat1.mp4
@@ -137,10 +140,13 @@ Arguments:
             ├── dog1.mp4
             ├── dog2.mp4
             └── dog3.mp4
+    ```
 - `--output_folder`: Path to the location to save the json files produced:
+    ```
     ├── parent_folder
         ├── cat.json
         └── dog.json
+     ```
 - `--normalisation_type`: Normalisation technique (choice between ratio and angle)
 - `--method`: Select pose estimation library to extract pose (supports FrankMocap and Openpose)
 - `--frankmocap_dir`: Path to the frankmocap models dir
